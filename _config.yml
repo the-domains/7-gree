@@ -1,4 +1,3 @@
-layout_spectrum: 0.12775528304039105
 typography_spectrum: 0.5300393659033177
 color:
   brandStrength: 0.706244915018854
@@ -12,6 +11,7 @@ color:
     - '#A7C520'
     - '#493F0B'
 github: true
+layout_spectrum: 0.12775528304039105
 author:
   name: Fraser Stevenson
 logo: >-
@@ -44,3 +44,6 @@ purpose:
   - type: contact
     url: 'mailto:plants@7-green.com'
     label: Contact us
+  - type: internal
+    label: Contact us
+    item: acebc1e2-d1fe-4b3f-9ec1-59daf6bdd976
