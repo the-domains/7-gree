@@ -1,9 +1,10 @@
-typography_spectrum: 0.1388420383802772
+layout_spectrum: 0.12775528304039105
+typography_spectrum: 0.5300393659033177
 color:
-  brandStrength: 0.09309012728365193
-  lightness: 0.3708985703917091
-  saturation: 0.10037382513349231
-  rhythmicContrast: 0.07679558958849031
+  brandStrength: 0.706244915018854
+  lightness: 0.11586852177719374
+  saturation: 0.6289946022547671
+  rhythmicContrast: 0.4890389055900718
   brandColors:
     - '#85DB18'
     - '#CDE855'
@@ -11,7 +12,6 @@ color:
     - '#A7C520'
     - '#493F0B'
 github: true
-layout_spectrum: 0.3295375866726004
 author:
   name: Fraser Stevenson
 logo: >-
