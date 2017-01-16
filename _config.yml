@@ -17,7 +17,7 @@ author:
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/a9766029-4a6e-4b4a-835b-bd5650417053.png
 name: 7 Green
-url: 'http://7-green.com'
+url: 'https://7-green.com'
 navigation:
   - name: 'Hello, I''m Harinda'
     id: 617737fd-c13a-4a59-b791-d9a17a420b34
@@ -37,6 +37,8 @@ navigation:
   - name: Contact Us
     id: acebc1e2-d1fe-4b3f-9ec1-59daf6bdd976
     type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b717a345-dd2f-40a5-99f2-76b874309ed7.png
 title: Living Green Solutions
 content: []
 description: Simply beautiful spaces designed installed and maintained with care
