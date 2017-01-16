@@ -18,6 +18,10 @@ logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/6363c2dc-d1f8-4b3d-a6f2-ccd097cd6f6b.png
 name: 7 Green
 url: 'http://7-green.com'
+navigation:
+  - name: Residential Landscaping
+    id: 84b04e1a-6100-4aea-a173-c4835560ad42
+    type: content
 title: Living Green Solutions
 content: []
 description: >-
