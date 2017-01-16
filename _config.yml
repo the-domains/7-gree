@@ -19,9 +19,6 @@ logo: >-
 name: 7 Green
 url: 'http://7-green.com'
 navigation:
-  - name: Our Plants
-    id: 02993e43-6dc8-4cff-b4d7-979707fd7019
-    type: content
   - name: Why Us?
     id: 617737fd-c13a-4a59-b791-d9a17a420b34
     type: content
