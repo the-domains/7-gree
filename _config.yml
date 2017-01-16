@@ -24,11 +24,11 @@ navigation:
   - name: Commercial Landscaping
     id: 61446445-7db0-4dbd-b50e-7a744b570c6b
     type: content
-  - name: Commercial Maintenance Programs
-    id: 2041de09-d5d2-45cc-b1b2-52c2b2e74395
-    type: content
   - name: 'Sustainability '
     id: 743a49e0-11a0-4f58-a0df-5d9cb11a65a7
+    type: content
+  - name: Commercial Maintenance Programs
+    id: 2041de09-d5d2-45cc-b1b2-52c2b2e74395
     type: content
 title: Living Green Solutions
 content: []
