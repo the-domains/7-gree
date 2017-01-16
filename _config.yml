@@ -19,6 +19,9 @@ logo: >-
 name: 7 Green
 url: 'http://7-green.com'
 navigation:
+  - name: 'Hello, I''m Harinda'
+    id: 617737fd-c13a-4a59-b791-d9a17a420b34
+    type: content
   - name: Residential Landscaping
     id: 84b04e1a-6100-4aea-a173-c4835560ad42
     type: content
@@ -33,9 +36,6 @@ navigation:
     type: content
   - name: Contact Us
     id: acebc1e2-d1fe-4b3f-9ec1-59daf6bdd976
-    type: content
-  - name: 'Hello, I''m Harinda'
-    id: 617737fd-c13a-4a59-b791-d9a17a420b34
     type: content
 title: Living Green Solutions
 content: []
