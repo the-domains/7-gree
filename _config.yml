@@ -1,10 +1,9 @@
-layout_spectrum: 0.1342326601918344
-typography_spectrum: 0.5618771506228144
+typography_spectrum: 0.5605382823799322
 color:
-  brandStrength: 0.11572049222185765
-  lightness: 0.3087091522982879
-  saturation: 0.7931350688953506
-  rhythmicContrast: 0.268869295421121
+  brandStrength: 0.11120780092783936
+  lightness: 0.3031727781440915
+  saturation: 0.794080272581668
+  rhythmicContrast: 0.2620798676057101
   brandColors:
     - '#85DB18'
     - '#CDE855'
@@ -12,33 +11,26 @@ color:
     - '#A7C520'
     - '#493F0B'
 github: true
+layout_spectrum: 0.1361749433222605
 author:
   name: Fraser Stevenson
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/6363c2dc-d1f8-4b3d-a6f2-ccd097cd6f6b.png
 name: 7 Green
+url: 'http://www.7-green.com'
 navigation:
-  - name: Residential Landscaping
-    id: 84b04e1a-6100-4aea-a173-c4835560ad42
+  - name: Our Plants
+    id: 02993e43-6dc8-4cff-b4d7-979707fd7019
     type: content
-  - name: Commercial Landscaping
-    id: 61446445-7db0-4dbd-b50e-7a744b570c6b
+  - name: Why Us?
+    id: 617737fd-c13a-4a59-b791-d9a17a420b34
     type: content
-  - name: 'Sustainability '
-    id: 743a49e0-11a0-4f58-a0df-5d9cb11a65a7
-    type: content
-  - name: Commercial Maintenance Programs
-    id: 2041de09-d5d2-45cc-b1b2-52c2b2e74395
-    type: content
-  - name: Contact Us
-    id: acebc1e2-d1fe-4b3f-9ec1-59daf6bdd976
-    type: content
-title: 7-Green Living Solutions
+title: Living Green Solutions
 content: []
 description: >-
-  Our attention to detail combined with our commitment to sustaining the
-  environment, ensures that the outdoor spaces that we create are beautiful,
-  functional and environmentally conscious.
+  Since 2006 7 Green has been providing professional interior landscaping
+  services including interior plant design & maintenance, office plant rental &
+  care
 purpose:
   - type: contact
     url: 'mailto:plants@7-green.com'
