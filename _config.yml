@@ -1,4 +1,3 @@
-layout_spectrum: 0.01847824729315125
 typography_spectrum: 0.6917039987701221
 color:
   brandStrength: 0.09891682419160583
@@ -12,10 +11,11 @@ color:
     - '#A7C520'
     - '#493F0B'
 github: true
+layout_spectrum: 0.01847824729315125
 author:
   name: Fraser Stevenson
 logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/6363c2dc-d1f8-4b3d-a6f2-ccd097cd6f6b.png
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/0c929f6d-72e2-4000-96c4-b69503acac75.png
 name: 7 Green
 url: 'http://7-green.com'
 navigation:
